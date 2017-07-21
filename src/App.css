@@ -22,3 +22,10 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.heartIcon {
+  background: url('Heart-Inside-icon.png') no-repeat;
+  height: 130px;
+  width: 130px;
+  display: inline-block;
+}
